@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "notes": "What's new",
+  "windows": { "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.0/Spendify-Setup-0.2.0.exe", "sha256": "<64 hex characters>" },
+  "android": { "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.0/Spendify-0.2.0.apk", "sha256": "<64 hex characters>" }
+}
