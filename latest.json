@@ -1,6 +1,9 @@
 {
-  "version": "0.2.0",
-  "notes": "What's new",
-  "windows": { "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.0/Spendify-Setup-0.2.0.exe", "sha256": "<64 hex characters>" },
-  "android": { "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.0/Spendify-0.2.0.apk", "sha256": "<64 hex characters>" }
+  "version": "0.2.2",
+  "notes": "Spendify 0.2.2",
+  "publishedAt": "2026-11-26T02:44:32.703Z",
+  "android": {
+    "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.2/Spendify-0.2.2.apk",
+    "sha256": "f0bc8d43de1363a1e538f00140e79e68432f3beceea17ae34848b8ce55eabeca"
+  }
 }
