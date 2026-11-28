@@ -1,9 +1,9 @@
 {
-  "version": "0.2.4",
-  "notes": "Spendify 0.2.4",
-  "publishedAt": "2026-11-26T17:55:24.046Z",
+  "version": "0.2.5",
+  "notes": "Spendify 0.2.5",
+  "publishedAt": "2026-11-28T12:27:05.525Z",
   "android": {
-    "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.4/Spendify-0.2.4.apk",
-    "sha256": "03241fe1782e1e417618a87e3df395ffcbb2119abb66a67aecbb6dff5458dc93"
+    "url": "https://github.com/jadiyoo/Spendify-releases-/releases/download/v0.2.5/Spendify-0.2.5.apk",
+    "sha256": "f9b7b1ea207296bcc94b74148b4dffca7c0d8b52a0b3dd1cd64cbd9e827dd7e4"
   }
 }
